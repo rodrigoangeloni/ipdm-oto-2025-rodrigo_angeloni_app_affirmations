@@ -1,50 +1,22 @@
-Affirmations App - Starter Code
-===============================
+# Aplicación de Afirmaciones - Código Inicial 🚀
 
-Introduction
-------------
-The Affirmations app contains a scrollable list of 10 cards.
+## Introducción 🌟
+La aplicación de Afirmaciones muestra una lista desplazable de 10 tarjetas con afirmaciones positivas.
 
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
+## Pre-requisitos 📋
+* Familiaridad con Listas en Kotlin.
+* Experiencia construyendo interfaces de usuario (layouts) con Jetpack Compose.
+* Experiencia ejecutando aplicaciones en un dispositivo o emulador.
 
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+## Comenzando 🏁
+1. Instala Android Studio, si aún no lo tienes.
+2. Descarga el código de ejemplo.
+3. Importa el ejemplo en Android Studio.
+4. ¡Construye y ejecuta la aplicación! 📱
 
-License
--------
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+## Licencia 📄
+Este proyecto está licenciado bajo la Licencia Apache 2.0 - mira el archivo [LICENSE](LICENSE) para más detalles.
 
-Affirmations App - Starter Code
-================================
+## Créditos de las Fotos 📸
+Todas las fotos por Romain Guy. Todas las fotos están licenciadas bajo CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
 
-Starter code for the Android Basics with Compose: Affirmations app.
-
-
-Introduction
-------------
-The Affirmations app contains a scrollable list of 10 cards.
-
-
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
-
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
