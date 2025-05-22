@@ -1,22 +1,33 @@
-# Aplicación de Afirmaciones - Versión Intermedia 🚀
+# 🌟 Affirmations App | Jetpack Compose + Material Design 🚀
 
-## Introducción 🌟
-Esta versión de la aplicación de Afirmaciones muestra una lista desplazable de 10 tarjetas con afirmaciones positivas y ahora incluye un ícono de aplicación actualizado.
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple?logo=kotlin)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.5.0-blue?logo=jetpack-compose)](https://developer.android.com/jetpack/compose)
+[![Material Design](https://img.shields.io/badge/Material%20Design-3-FF4081?logo=material-design)](https://m3.material.io/)
 
-## Pre-requisitos 📋
-* Familiaridad con Listas en Kotlin.
-* Experiencia construyendo interfaces de usuario (layouts) con Jetpack Compose.
-* Experiencia ejecutando aplicaciones en un dispositivo o emulador.
+Una aplicación minimalista para inspirar tu día con **afirmaciones positivas**. Desarrollada con las mejores prácticas de Android Moderno. 📱✨
 
-## Comenzando 🏁
-1. Instala Android Studio, si aún no lo tienes.
-2. Descarga el código de ejemplo.
-3. Importa el ejemplo en Android Studio.
-4. ¡Construye y ejecuta la aplicación! 📱
+---
 
-## Licencia 📄
-Este proyecto está licenciado bajo la Licencia Apache 2.0 - mira el archivo [LICENSE](LICENSE) para más detalles.
+## 🚀 Características Principales
 
-## Créditos de las Fotos 📸
-Todas las fotos por Romain Guy. Todas las fotos están licenciadas bajo CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+- 🎨 **Interfaz elegante** con tarjetas estilo Material Design 3.
+- 📜 **Lista desplazable** fluida usando `LazyColumn` (Jetpack Compose).
+- 🌈 **Datos estáticos** cargados desde recursos locales (`strings.xml`).
+- 🛠️ Arquitectura limpia y modularizada.
 
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Lenguaje**: ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+- **UI**: ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose&logoColor=white)
+- **Diseño**: ![Material Design 3](https://img.shields.io/badge/-Material%20Design%203-757575?logo=material-design)
+- **Gestión de Dependencias**: ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle)
+
+---
+
+## ⚡ Cómo Empezar
+
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/rodrigoangeloni/ipdm-oto-2025-rodrigo_angeloni_app_affirmations.git
