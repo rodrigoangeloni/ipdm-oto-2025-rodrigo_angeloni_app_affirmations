@@ -1,7 +1,7 @@
-# Aplicación de Afirmaciones - Código Inicial 🚀
+# Aplicación de Afirmaciones - Versión Intermedia 🚀
 
 ## Introducción 🌟
-La aplicación de Afirmaciones muestra una lista desplazable de 10 tarjetas con afirmaciones positivas.
+Esta versión de la aplicación de Afirmaciones muestra una lista desplazable de 10 tarjetas con afirmaciones positivas y ahora incluye un ícono de aplicación actualizado.
 
 ## Pre-requisitos 📋
 * Familiaridad con Listas en Kotlin.
